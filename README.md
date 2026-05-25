@@ -20,7 +20,6 @@
 * **Author:** Dervis Kadunic
 * **Location:** York, ON, Canada
 * **Email:** Kadunicdervis16@gmail.com
-* **Contact Number:** 647 739 5956
 * **Project Framework:** Departure From the Photon Baseline: A Universal Ruler for Mass, Gravity, and Time
 
 ---
