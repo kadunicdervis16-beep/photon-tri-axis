@@ -1,0 +1,25 @@
+CRUCIBLE FREEZE ANCHOR — Departure From the Photon Baseline, Paper 13
+
+Paper 13, "Time as the 720-Degree Rotation Ledger, Non-Linearity, and the
+Arrow of Direction" (Dervis Kadunic), version v8.
+
+Crucible trial configuration freeze hash (F, CONFIG_FREEZE recursive hash,
+printed in the paper at Section 10.12):
+
+4d75e3af760ed78ed58fc6aa19e7470972e5a1e59ce48a1c63f48655920062b4
+
+Manifest hash (M):
+
+1ee24156633981aca519cefe89caf2f04096951407446d0ddf0043c0dbf85d1b
+
+Paper file (Paper_13_v8.md) SHA-256:
+
+5b88d8ac173249f25e201ca073634857c42f32389396d192d7f7e9f3c159d0d2
+
+Verification package (Paper_13_v8_verification_package.zip) SHA-256:
+
+e7d11773770c008831aa0a97b0ff7741a96c5b32dde9c0144dc9724c4e54c4cd
+
+This record anchors the freeze identity of the Paper 13 v8 Crucible
+configuration. Anchoring is the author's act; the freeze values above were
+recomputed from the shipped artefacts before the trial convened.
